@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PROXY NOTES</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">UserName</string>
+    <string name="contactno">contactNo</string>
+    <string name="email_address">Email Address</string>
+    <string name="you_have_subscribed_to_this_channel">You have subscribed to this channel</string>
+    <string name="swipe_up_to_play_previous_video">Swipe Up To Play Previous Video</string>
+    <string name="swipe_down_to_play_next_video">Swipe Down To Play Next Video</string>
+    <string name="swipe_left_to_subscribe_to_the_channel">Swipe Left To Subscribe To The Channel</string>
+    <string name="swipe_right_to_view_user_profile">Swipe Right To View User Profile</string>
+    <string name="instructions">Instructions</string>
+</resources>
